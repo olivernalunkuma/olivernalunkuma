@@ -1,4 +1,5 @@
 ## Hi there 👋
+🔭 I’m currently working on COVID-19, for my Masters Thesis
 
 <!--
 **olivernalunkuma/olivernalunkuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
