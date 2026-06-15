@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently working on COVID-19, for my Masters Thesis
+🔭 I’m currently working on Mpox Transmission Clade Ib in Kenya, for my Masters Thesis
 
 <!--
 **olivernalunkuma/olivernalunkuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
